@@ -7,7 +7,7 @@
           <v-card-text class="pa-5">
             <div class="d-flex align-center">
               <v-avatar size="80" class="mr-4">
-             <v-img src="/yki.JPG" alt="Profile"></v-img>
+             <v-img src="/my-image.jpg" alt="Profile"></v-img>
              </v-avatar>
               <div>
                 <h1 class="text-h4">Welcome back, {{ authStore.user?.name }}!</h1>
